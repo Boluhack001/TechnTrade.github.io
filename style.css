@@ -106,12 +106,14 @@ header a:hover{
   margin-top: 40px;
   padding-top:40px;
   font-weight: bolder;
+  color: #1e3759;
 }
 
 #showcase p{
   font-size:20px;
   font-weight: 250;
   line-height: 1.1em;
+  color: #1e3759;
 }
 
 
