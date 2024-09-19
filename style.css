@@ -96,6 +96,7 @@ header a:hover{
   background-size: cover;
   text-align:center;
   color:#ffffff;
+  z-index: -1;
 }
 
 #showcase h1{
